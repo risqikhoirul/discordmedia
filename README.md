@@ -34,6 +34,11 @@ TOKEN=
 CHANNEL=
 PORT=
 ```
+Get Token Discord (Not Bot). 
+https://github.com/risqikhoirul/token-discord
+
+Get Id channel server discord. 
+https://discord.com/serverid/channelid
 
 ## Usage
 
