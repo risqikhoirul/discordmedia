@@ -1,7 +1,7 @@
 #image {
   border: 1px solid black; /* garis kotak dengan ketebalan 1 piksel dan warna hitam */
   background-color: #f2f2f2; /* latar belakang abu-abu */
-  padding: 20px; /* jarak antara konten dan batas kotak */
+  padding: 10px; /* jarak antara konten dan batas kotak */
   display: none;
 }
 
