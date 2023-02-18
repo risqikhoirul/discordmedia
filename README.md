@@ -3,6 +3,7 @@
 ## Installation
 1. Nodejs V >= 18
 2. NPM V >= 9
+
 You haven't installed nodejs and npm? 
 ### Windows
 Open Terminal PowerShell
