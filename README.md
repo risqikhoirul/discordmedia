@@ -45,3 +45,9 @@ https://discord.com/serverid/channelid
 ```
 npm start
 ```
+
+## Output
+
+![](https://raw.githubusercontent.com/risqikhoirul/discordmedia/main/download%20(9).png)
+
+![](https://raw.githubusercontent.com/risqikhoirul/discordmedia/main/download%20(10).png)
