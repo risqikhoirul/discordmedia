@@ -5,9 +5,6 @@
   display: none;
 }
 
-#image img {
-  width: 700px;
-}
 
 .content {
   display: flex;
